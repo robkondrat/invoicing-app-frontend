@@ -67,7 +67,7 @@
   import Header from "./Header";
   import axios from "axios";
   export default {
-    name: "SignUp",
+    name: "SignIn",
     components: {
       Header
     },

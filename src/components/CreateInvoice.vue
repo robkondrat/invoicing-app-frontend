@@ -89,7 +89,7 @@
 <script>
   import axios from "axios";
   export default {
-    name: "CreateInvoice";
+    name: "CreateInvoice",
     data() {
       return {
         invoice: {
